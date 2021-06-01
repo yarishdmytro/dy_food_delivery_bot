@@ -1,0 +1,139 @@
+{
+  "meals": [
+    {
+      "uuid": "f123",
+      "name": "Бамбіні",
+      "description": "печена курка, ананаси, кукурудза, неаполітанський соус, моцарелла.",
+      "type": "pizza",
+      "price": 89,
+      "weight": 480,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/10/Bambini.jpg"
+    },
+    {
+      "uuid": "f124",
+      "name": "Флоренція",
+      "description": "Сир моцарелла двох видів, сир Дор Блю, груша, мед, грецький горіх, вершковий соус.",
+      "type": "pizza",
+      "price": 194,
+      "weight": 440,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2021/05/Florentsia-1.jpg"
+    },
+    {
+      "uuid": "f125",
+      "name": "Верона",
+      "description": "Шинка, гриби печериці, сир пармезан, трюфельна олія, базилік, сир моцарела, вершковий соус.",
+      "type": "pizza",
+      "price": 193,
+      "weight": 420,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2020/04/Verona.jpg"
+    },
+    {
+      "uuid": "f126",
+      "name": "Діавола",
+      "description": "Салямі чорізо, перець халапеньйо, орегано, сир моцарелла, неаполітанський соус",
+      "type": "pizza",
+      "price": 184,
+      "weight": 420,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2020/04/Diavola.jpg"
+    },
+    {
+      "uuid": "f127",
+      "name": "Кватро Формаджі",
+      "description": "Сир Моцарелла, сир Рікота, сир  Пармезан, сир Дор Блю, вершковий соус",
+      "type": "pizza",
+      "price": 199,
+      "weight": 410,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2020/04/Diavola.jpg"
+    },
+    {
+      "uuid": "f128",
+      "name": "Мікс салатів з вяленим томатом і артишоком",
+      "description": "Мікс салатів, вялений томат, маринорваний артишок, каперси, оливки, горіх грецький",
+      "type": "salad",
+      "price": 89,
+      "weight": 200,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2021/05/mix.jpg"
+    },
+    {
+      "uuid": "f129",
+      "name": "Мікс салатів з прошуто, грушею та соусом вінігрет",
+      "description": "Мікс салатів, прошуто крудо, груша, сир дор блю, томати черрі, грецький горіх, соус Вінігрет",
+      "type": "salad",
+      "price": 99,
+      "weight": 260,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2020/04/Miks-salativ-z-proshuto.jpg"
+    },
+    {
+      "uuid": "f130",
+      "name": "Мікс салатів з смаженою куркою і соусом Цезар",
+      "description": "Мікс салатів, томати черрі, перепелині яйця, печене філе курки, бекон, крутони, соус Цезар, сир пармезан.",
+      "type": "salad",
+      "price": 97,
+      "weight": 260,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/08/Cezar.jpg"
+    },
+    {
+      "uuid": "f131",
+      "name": "Чіа з сезонними ягодами",
+      "description": "Йогурт з чіа та малиновим соусом",
+      "type": "desert",
+      "price": 43,
+      "weight": 160,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/07/chia.jpg.png"
+    },
+    {
+      "uuid": "f132",
+      "name": "Тірамісу",
+      "description": "Італійський десерт на основі сиру маскарпоне з наповнювачем печива «савоярді», кави та какао.",
+      "type": "desert",
+      "price": 60,
+      "weight": 140,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/08/tiramisu.jpg"
+    },
+    {
+      "uuid": "f133",
+      "name": "Вода Pepsi",
+      "description": "0,33 ж/б",
+      "type": "drink",
+      "price": 20,
+      "weight": 330,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2020/04/16.png"
+    },
+    {
+      "uuid": "f134",
+      "name": "Mirinda",
+      "description": "Вода 0,5",
+      "type": "drink",
+      "price": 25,
+      "weight": 500,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/05/14.png"
+    },
+    {
+      "uuid": "f135",
+      "name": "7up",
+      "description": "Вода 0,5л",
+      "type": "drink",
+      "price": 25,
+      "weight": 500,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/05/13.png"
+    },
+    {
+      "uuid": "f136",
+      "name": "Aqua",
+      "description": "Мінеральна вода газована 0,5л",
+      "type": "drink",
+      "price": 18,
+      "weight": 500,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/05/22.png"
+    },
+    {
+      "uuid": "f137",
+      "name": "Сік Sandora",
+      "description": "Гранатовий нектар 0,5л",
+      "type": "drink",
+      "price": 25,
+      "weight": 500,
+      "picture": "https://mamaitaliano.com.ua/wp-content/uploads/2019/05/8.png"
+    }
+  ]
+}

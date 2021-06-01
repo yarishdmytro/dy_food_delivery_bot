@@ -1,0 +1,19 @@
+{
+  "name": "dy_food_delivery_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.7",
+    "node-telegram-bot-api": "^0.52.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
